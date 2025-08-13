@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vanderson Guerrier 
 - 👀 I’m a Full-Stack Developer 
 - 💞️ I’m open to collaborate on web development project 
-- 📫 How to reach me : @guerriervanderson@gmail.com
+- 📫 How to reach me : guerriervanderson@gmail.com
 - 😄 Pronouns: Vanderson
   
 
